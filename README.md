@@ -91,6 +91,9 @@ Private EC2 (Private Subnet)
 
 ![SSH to Private EC2](screenshots/ssh_to_private_instance.png)
 
+### Output
+![SSH to Private EC2](screenshots/output.png)
+
 ## Key Learnings
 
 - Difference between public and private subnets
