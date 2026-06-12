@@ -85,11 +85,11 @@ Private EC2 (Private Subnet)
 
 ### SSH to Bastion Host
 
-![SSH to Bastion](screenshots/ssh-to-bastion.png)
+![SSH to Bastion](screenshots/ssh_to_bastion.png)
 
 ### SSH to Private EC2
 
-![SSH to Private EC2](screenshots/ssh-to-private-instance.png)
+![SSH to Private EC2](screenshots/ssh_to_private_instance.png)
 
 ## Key Learnings
 
